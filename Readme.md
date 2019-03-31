@@ -18,7 +18,7 @@ To sum up, the mentioned system corresponds to an application that studies that 
 
 Besides that, the application will allow the user to schedule an appointment and also reminder the person to take a new photo and do the process again after a certain time.
 
-## 1. **III.**  CONCLUSION
+##  **III.**  CONCLUSION
 
 The database accuracy is 80%. So we expect to improve and help people and healh care professionals to make a faster follow up in this issue and also achieve a larger part of the population to care and be aware of this disease, which is the type of cancer with most cases in Brazil.
 
