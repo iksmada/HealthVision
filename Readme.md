@@ -22,5 +22,5 @@ Besides that, the application will allow the user to schedule an appointment and
 
 ##  **III.**  CONCLUSION
 
-The database accuracy is 97%. So we expect to improve and help people and healh care professionals to make a faster follow up in this issue and also achieve a larger part of the population to care and be aware of this disease, which is the type of cancer with most cases in Brazil.
+The database accuracy is 93% with an F1 score of 92%. More importantly our false negative rate was under 4%, making the solution viable for the market. We expect to improve and help people and health care professionals to make a faster follow up on this issue and also achieve a larger impact on the population to care for and raise awareness of this disease, which is the type of cancer with most cases in Brazil.
 
