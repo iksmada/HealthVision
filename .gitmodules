@@ -1,0 +1,6 @@
+[submodule "SONIC-preprocessing"]
+	path = SONIC-preprocessing
+	url = https://github.com/iksmada/SONIC-preprocessing.git
+[submodule "HealthVisionApp"]
+	path = HealthVisionApp
+	url = https://github.com/iksmada/HealthVisionApp.git
